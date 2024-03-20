@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1109
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 73
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 457
     height: 1059
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 18
+  controlID: 74
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 19
+  controlID: 75
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -322,7 +322,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/MedievalTownExteriors/Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -330,16 +330,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/MedievalTownExteriors/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\kirik\Medieval_Town
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: a8c50000
-    m_LastClickedID: 50600
-    m_ExpandedIDs: 00000000428900004a8b00004c8b0000508b0000528b0000588b0000688b00006a8b000000ca9a3bffffff7f
+    m_SelectedIDs: 8e890000
+    m_LastClickedID: 35214
+    m_ExpandedIDs: 000000008e890000c88b0000ca8b0000cc8b0000d02e0200d42e0200d82e0200e02e0200e42e0200e82e0200e662020000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -367,7 +367,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000042890000
+    m_ExpandedIDs: 000000008e890000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,10 +508,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 48}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f207ffffb21bffff2628fffff8faffff82800000f0800000
+      m_ExpandedIDs: 462afeffa62efeff6a13ffff061affff901dffff0cf6ffff08f7ffff94f7ffff42f8ffffdef9fffff8faffffe07e00007e800000a28000003444020052490200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -944,9 +944,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 314.61218, y: 4.693836, z: -13.9661255}
+    m_Target: {x: 138.67523, y: -97.00382, z: 440.36096}
     speed: 2
-    m_Value: {x: 314.61218, y: 4.693836, z: -13.9661255}
+    m_Value: {x: 138.67523, y: -97.00382, z: 440.36096}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -992,13 +992,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.05119044, y: -0.9483987, z: 0.20542845, w: -0.23634943}
+    m_Target: {x: -0.43992588, y: -0.45219395, z: 0.27405518, w: -0.72600085}
     speed: 2
-    m_Value: {x: -0.05118679, y: -0.9483311, z: 0.2054138, w: -0.23633258}
+    m_Value: {x: -0.4390584, y: -0.45432505, z: 0.27534655, w: -0.72456944}
   m_Size:
-    m_Target: 11.506703
+    m_Target: 116.392456
     speed: 2
-    m_Value: 11.011199
+    m_Value: 121.876915
   m_Ortho:
     m_Target: 0
     speed: 2
