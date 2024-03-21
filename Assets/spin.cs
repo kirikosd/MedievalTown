@@ -7,9 +7,6 @@ using UnityEngine;
 
 public class spin : MonoBehaviour
 {
-    float speed = 3f;
-    System.Random r = new System.Random();
-
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +16,6 @@ public class spin : MonoBehaviour
     void Update()
     {
 
-        transform.Rotate(0f, 0.1f, 0f, Space.Self);
+        transform.Rotate(0f, 0.25f, 0f, Space.Self);
     }
 }
