@@ -68,14 +68,13 @@
     <Compile Include="Assets\LPHorse_Version_2_9\Version_2_9\ReactiveRider\Scripts\OnAnimatorIKRelay.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunAim.cs" />
-    <Compile Include="Assets\Rusty Flashlight\Scripts\FlashlightToggle.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunShoot.cs" />
     <Compile Include="Assets\LPHorse_Version_2_9\Version_2_9\ReactiveRider\Scripts\RRSetIK.cs" />
+    <Compile Include="Assets\Scripts\spin.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
     <Compile Include="Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
-    <Compile Include="Assets\spin.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
@@ -98,7 +97,6 @@
     <None Include="Assets\LPHorse_Version_2_9\Version_2_9\READ_ME.txt" />
     <None Include="Assets\Conifers [BOTD]\Conifers [BOTD] URP Readme.txt" />
     <None Include="Assets\CTI URP\CTI Runtime Components URP\Shaders\Includes\CTI URP Billboard.hlsl" />
-    <None Include="Assets\Rusty Flashlight\README.txt" />
     <None Include="Assets\LPHorse_Version_2_9\Version_2_9\Animations\Animation_Information.txt" />
     <None Include="Assets\CTI URP\CTI Runtime Components URP\Shaders\Includes\CTI URP Bending.hlsl" />
     <None Include="Assets\Conifers [BOTD]\Getting started.txt" />
@@ -118,7 +116,6 @@
     <None Include="Assets\Polytope Studio\Lowpoly_Environments\Sources\Shaders\PT_Rock_Shader_VS.shader" />
     <None Include="Assets\CTI URP\CTI Runtime Components URP\Shaders\CTI URP Bark.shader" />
     <None Include="Assets\Polytope Studio\Lowpoly_Environments\Sources\Shaders\PT_Vegetation_Plants_Shader_VS.shader" />
-    <None Include="Assets\Stylized NPC - Peasant Nolant\README.txt" />
     <None Include="Assets\LPHorse_Version_2_9\Version_2_9\Saddle\Saddle_Information 1.txt" />
     <None Include="Assets\Polytope Studio\Lowpoly_Environments\Sources\Shaders\PT_Vegetation_Flowers_Shader_VS.shader" />
     <None Include="Assets\LPHorse_Version_2_9\Version_2_31\Saddle\Saddle_Information.txt" />
