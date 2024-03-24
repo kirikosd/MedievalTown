@@ -61,8 +61,10 @@
   <ItemGroup>
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
     <Compile Include="Assets\CTI URP\CTI Runtime Components URP\Scripts\CTI_SRP_CustomWind.cs" />
+    <Compile Include="Assets\Scripts\boyInDock.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
+    <Compile Include="Assets\Scripts\villagerChopping.cs" />
     <Compile Include="Assets\LPHorse_Version_2_9\Version_2_9\ReactiveRider\Scripts\ReactiveRider.cs" />
     <Compile Include="Assets\LPHorse_Version_2_9\Version_2_9\Saddle\Scripts\SaddleBind.cs" />
     <Compile Include="Assets\LPHorse_Version_2_9\Version_2_9\ReactiveRider\Scripts\OnAnimatorIKRelay.cs" />
@@ -70,6 +72,7 @@
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunAim.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\Old Sea Port\EffectExamples\Shared\Scripts\GunShoot.cs" />
+    <Compile Include="Assets\Scripts\horseInStable.cs" />
     <Compile Include="Assets\LPHorse_Version_2_9\Version_2_9\ReactiveRider\Scripts\RRSetIK.cs" />
     <Compile Include="Assets\Scripts\spin.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
